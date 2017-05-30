@@ -103,51 +103,41 @@ ItemDisplay[INF ILVL>14 !RW !leg]:
 
 //RUNES
 //1-16
-ItemDisplay[r01]: %ORANGE%%RUNENAME% 
-ItemDisplay[r02]: %ORANGE%%RUNENAME% 
-ItemDisplay[r03]: %ORANGE%%RUNENAME% 
-ItemDisplay[r01]: %ORANGE%%RUNENAME% 
-ItemDisplay[r02]: %ORANGE%%RUNENAME% 
-ItemDisplay[r03]: %ORANGE%%RUNENAME% 
-ItemDisplay[r02]: %ORANGE%%RUNENAME%
-ItemDisplay[r03]: %ORANGE%%RUNENAME%
-ItemDisplay[r04]: %ORANGE%Nef Rune
-ItemDisplay[r05]: %ORANGE%%RUNENAME% 
-ItemDisplay[r05]: %ORANGE%%RUNENAME% 
-ItemDisplay[r06]: %ORANGE%Ith Rune
-ItemDisplay[r07]: %ORANGE%Tal Rune
-ItemDisplay[r08]: %ORANGE%Ral Rune
-ItemDisplay[r09]: %ORANGE%Ort Rune
-ItemDisplay[r10]: %ORANGE%Thul Rune
-ItemDisplay[r11]: %ORANGE%Amn Rune
-ItemDisplay[r12]: %ORANGE%Sol Rune
-ItemDisplay[r13]: %ORANGE%%RUNENAME% 
-ItemDisplay[r14]: %ORANGE%%RUNENAME% 
-ItemDisplay[r15]: %ORANGE%%RUNENAME% 
-ItemDisplay[r16]: %ORANGE%%RUNENAME% 
-ItemDisplay[r13]: %ORANGE%%RUNENAME% 
-ItemDisplay[r14]: %ORANGE%%RUNENAME% 
-ItemDisplay[r15]: %ORANGE%%RUNENAME% 
-ItemDisplay[r16]: %ORANGE%%RUNENAME% 
+ItemDisplay[r01]: %ORANGE%El Rune[1]
+ItemDisplay[r02]: %ORANGE%Eld Rune[2] 
+ItemDisplay[r03]: %ORANGE%Tir Tune[3]
+ItemDisplay[r04]: %ORANGE%Nef Rune[4]
+ItemDisplay[r05]: %ORANGE%Eth Rune[5]
+ItemDisplay[r06]: %ORANGE%Ith Rune[6]
+ItemDisplay[r07]: %ORANGE%Tal Rune[7]
+ItemDisplay[r08]: %ORANGE%Ral Rune[8]
+ItemDisplay[r09]: %ORANGE%Ort Rune[9]
+ItemDisplay[r10]: %ORANGE%Thul Rune[10]
+ItemDisplay[r11]: %ORANGE%Amn Rune[11]
+ItemDisplay[r12]: %ORANGE%Sol Rune[12]
+ItemDisplay[r13]: %ORANGE%Shael Rune[13]
+ItemDisplay[r14]: %ORANGE%Dol Rune[14]
+ItemDisplay[r15]: %ORANGE%Hel Rune[15]
+ItemDisplay[r16]: %ORANGE%Io Rune[16]
 //17-23
-ItemDisplay[r17]: %ORANGE%%RUNENAME%
-ItemDisplay[r18]: %ORANGE%%RUNENAME%
-ItemDisplay[r19]: %ORANGE%%RUNENAME% 
-ItemDisplay[r20]: %ORANGE%%RUNENAME% 
-ItemDisplay[r21]: %ORANGE%%RUNENAME% 
-ItemDisplay[r22]: %ORANGE%%RUNENAME% 
-ItemDisplay[r23]: %ORANGE%%RUNENAME%
+ItemDisplay[r17]: %ORANGE%Lum Rune[17]
+ItemDisplay[r18]: %ORANGE%Ko Rune [18]
+ItemDisplay[r19]: %ORANGE%Fal Rune[19]
+ItemDisplay[r20]: %ORANGE%Lem Rune[20] 
+ItemDisplay[r21]: %ORANGE%Pul Rune[21]
+ItemDisplay[r22]: %ORANGE%Um Rune[22]
+ItemDisplay[r23]: %ORANGE%Mal Rune[23]
 //24-33
-ItemDisplay[r24]: %ORANGE%%RUNENAME%
-ItemDisplay[r25]: %ORANGE%%RUNENAME%
-ItemDisplay[r26]: %ORANGE%%RUNENAME%
-//ItemDisplay[r27]: %ORANGE%%RUNENAME%
-//ItemDisplay[r28]: %ORANGE%%RUNENAME%
-//ItemDisplay[r29]: %ORANGE%%RUNENAME%
-//ItemDisplay[r30]: %ORANGE%%RUNENAME% 
-ItemDisplay[r31]: %ORANGE%%RUNENAME%
-ItemDisplay[r32]: %ORANGE%%RUNENAME%
-ItemDisplay[r33]: %ORANGE%%RUNENAME%
+ItemDisplay[r24]: %ORANGE%Ist Rune[24]
+ItemDisplay[r25]: %ORANGE%Gul Rune[25]
+ItemDisplay[r26]: %ORANGE%Vex Rune[26]
+//ItemDisplay[r27]: %ORANGE%Ohm Rune[27]
+//ItemDisplay[r28]: %ORANGE%Lo Rune[28]
+//ItemDisplay[r29]: %ORANGE%Sur Rune[29]
+//ItemDisplay[r30]: %ORANGE%Ber Rune[30]
+ItemDisplay[r31]: %ORANGE%Jah Rune[31]
+ItemDisplay[r32]: %ORANGE%Cham Rune[32]
+ItemDisplay[r33]: %ORANGE%Zod Rune[33]
 //High Value Runes (3.0+)
 ItemDisplay[r27]: %ORANGE%¤ %RUNENAME% ¤
 ItemDisplay[r28]: %ORANGE%¤ %RUNENAME% ¤
