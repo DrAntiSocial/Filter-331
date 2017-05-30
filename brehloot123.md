@@ -491,7 +491,7 @@ ItemDisplay[MAG cm1 ILVL=47]: %NAME% %BLUE%[L%ILVL%]
 ItemDisplay[RW]: %NAME%
 
 //Charms
-ItemDisplay[!UNI (cm1 OR cm2 OR cm3)]: %ORANGE%!%NAME%
+ItemDisplay[!UNI (cm1 OR cm2 OR cm3)]: %ORANGE%! %BLUE%%NAME%
 ItemDisplay[UNI (cm1 OR cm2 OR cm3)]: %TAN%%NAME%
 //
 
